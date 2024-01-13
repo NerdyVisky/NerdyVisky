@@ -7,21 +7,19 @@
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/vishvesh106/)
 
 ##  👨‍🎓 Background
-I am a Junior year CS undergrad at NIT Surat and the acting chairperson at [ACM NIT Surat ](https://nitsurat.acm.org/). 
-I am also an incoming summer data analyst at [Wells Fargo](https://www.wellsfargo.com/).
-I also write blogs for the official media and publication house of NIT Surat - [Renesa.](https://www.renesasvnit.com/)
-#### Visit my portfolio website to view my profile and checkout my blogs [here.](http://vishveshtrivedi.herokuapp.com/)
+I am a CS undergrad at SVNIT Surat who loves to talk about language, vision, or design. 
+Currently, I work as a Research Fellow at [Center of Visual Information Technology, IIITH](https://cvit.iiit.ac.in/) in the OCR team.
+I previously interned at [Wells Fargo](https://www.wellsfargo.com/) in Hyderabad, India as an Analyst Intern.
+I led the [ACM SVNIT Student Chapter](https://nitsurat.acm.org/) in 2022-23 and I also occasionally write blogs for the official media and publication house of NIT Surat - [Renesa.](https://www.renesasvnit.com/)
+##### Visit my portfolio website to view my profile and checkout my blogs [here.](https://portfolio-website-7r8u.onrender.com/).
+As of January 2024: The website might take a while to load because it's a free service. Also, it's pretty old and I haven't updated it for a while
 
-I primarily code in C/C++, Javascript and Python. My areas of interest and research are : 
-- Full stack Web Development
-- Machine Learning
-- Decentralized Web Tech/Blockchain
-- DevOps practices
-- Software Defined Networking
-- Fintech Case Studies
+I primarily code in C/C++, Javascript, and Python. Currently learning PyTorch and Tensorflow V2 deep learning frameworks.
 
-## ⚡ Technologies
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+Interested to pursue research in Computer Vision, Natural Language Processing, with a preferred bent on the healthcare industry. 
+Check out my CV [here](https://drive.google.com/file/d/1vkBYKr4PufIpFE43-_qBPrPOwu0eZsii/view?usp=sharing) and ping me up on my mail [here](mailto:u20cs130@coed.svnit.ac.in) if you have any open-source/proprietary ML/DL project where I can help out! 
+
+
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
